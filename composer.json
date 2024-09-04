@@ -1,0 +1,20 @@
+{
+    "name": "anvil/log",
+    "type": "package",
+    "require": {
+        "monolog/monolog": "^3.7",
+        "psr/log": "^3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anvil\\Log\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnvilM",
+            "email": "211anvil112@gmail.com"
+        }
+    ]
+}
