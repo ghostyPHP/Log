@@ -2,8 +2,9 @@
     "name": "anvil/log",
     "type": "package",
     "require": {
-        "monolog/monolog": "^3.7",
-        "psr/log": "^3.0"
+        "psr/log": "^3.0",
+        "ghosty/container": "^1.0",
+        "psr/container": "^2.0"
     },
     "license": "MIT",
     "autoload": {
